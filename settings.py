@@ -1,0 +1,10 @@
+# 화면 설정
+SCREEN_WIDTH = 400
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# 색상
+SKY_BLUE = (135, 206, 235)
+GREEN = (0, 255, 0)
+YELLOW = (255, 255, 0)
+BLACK = (0, 0, 0)
